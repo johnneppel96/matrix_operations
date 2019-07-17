@@ -1,1 +1,1 @@
-# matrix_operations
+I created these matrix packages for the programming projects that I was assigned for my Operating Systems Analysis class. These projects allowed me to get experience in writing multi-threaded programs.
