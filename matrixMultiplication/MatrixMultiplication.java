@@ -72,7 +72,6 @@ public class MatrixMultiplication {
 	
 	
 	
-	// IGNORE THE FOLLOWING METHODS; THEY'RE LEFT OVER FROM ANOTHER ALGORITHM I WAS PROPOSING
 	public static int[] extractColumnFromMatrix(int[][]matrix, int columnIndex) {
 		int[]columnElements = new int[matrix[0].length];
 		for(int i=0; i<matrix[0].length; i++) {
